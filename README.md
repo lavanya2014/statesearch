@@ -24,9 +24,18 @@ http://localhost:8087/StateSearch/rest/states/get/Alabama
 
 http://localhost:8087/StateSearch/rest/states/get/AL
 
+<img width="1278" alt="test 2" src="https://user-images.githubusercontent.com/6617982/44188087-dd46db80-a0ea-11e8-8f35-dcc282b8d259.png">
+
+
 http://localhost:8087/StateSearch/rest/states/get/AL,Georgia,NH
 
+<img width="1253" alt="test 3" src="https://user-images.githubusercontent.com/6617982/44186964-5560d180-a0ea-11e8-869f-d891091b15e9.png">
+
+
 http://localhost:8087/StateSearch/rest/states/get/
+
+<img width="1269" alt="test 4" src="https://user-images.githubusercontent.com/6617982/44186935-4f6af080-a0ea-11e8-83a7-d416a55e3bb1.png">
+
 
 
 
