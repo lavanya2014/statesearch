@@ -18,8 +18,11 @@ Download maven project and install and run.
 
 Accessed and tested with urls: 
 http://localhost:8087/StateSearch/rest/states/get/Alabama
+
 http://localhost:8087/StateSearch/rest/states/get/AL
+
 http://localhost:8087/StateSearch/rest/states/get/AL,Georgia,NH
+
 http://localhost:8087/StateSearch/rest/states/get/
 
 
